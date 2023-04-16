@@ -1,3 +1,3 @@
 # Hello World
 
-Trying to learn git properly
+Trying to learn git properly!
